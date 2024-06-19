@@ -1,6 +1,6 @@
 {
-  "name": "@rlanz/bull-queue",
-  "description": "Queue system based on BullMQ for AdonisJS",
+  "name": "bull-queue-fork",
+  "description": "Queue system based on BullMQ for AdonisJS fork for beta features",
   "version": "3.0.0",
   "engines": {
     "node": ">=18.16.0"
